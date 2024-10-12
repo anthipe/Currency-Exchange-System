@@ -37,5 +37,5 @@ Begin by **downloading the .zip file and extracting all the contents**. After ex
   This command allows the user to disconnect from the system.
 
 ## SCREENSHOTS 
-![Screenshot of the commands](screenshots/sc_1)
-![Screenshot of the commands](screenshots/sc_2)
+![Screenshot of the commands](screenshots/sc_1.png)
+![Screenshot of the commands](screenshots/sc_2.png)
