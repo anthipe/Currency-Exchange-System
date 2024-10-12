@@ -1,4 +1,4 @@
-# Bank-System
+# CURRENCY EXCHANGE SYSTEM
 This is a client-server program that simulates the operation of a currency exchange system
 
 # DESCREPTION
@@ -13,7 +13,7 @@ The aim of this project was to create a **TCP/IP client-server** application in 
 
 ## FILES
 
-Begin by **downloading the .zip file and extracting all the contents**. After extracting the files, you will be able to see a server.c file and a client.c file.After running the server.c you have to run the client.c. After running the program , two .dat files will be created with the info of the accounts and the clients that the user made.
+Begin by **downloading the server.c file and the clients.c file**. After downloading the files,you can run the files in the command window or your prefered IDE._After running the server.c you have to run the client.c_.When you exit the programm , two .dat files will be created with the info of the accounts and the clients that the user made.
 
 ## COMMANDS
 
